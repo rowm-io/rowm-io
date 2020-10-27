@@ -3,7 +3,7 @@
 I'm a Full Stack Developer with experience in a variety of technologies including - *Angular, NodeJs, ExpressJs, Google Cloud Platform(Firebase, Cloud Storage, Cloud Firestore, Cloud SQL, Cloud Run, Pub/Sub, Cloud Build, Google Kubernetes Engine), Docker, Python, Flask, MySQL and so on*.
 
 - 🔭 I’m currently working as Freelancer/Software Developer.
-- 🌱 I’m currently learning/developing applications with Angular 9 and MongoDB.
+- 🌱 I’m currently learning/developing applications with Angular 9 and MongoDB(mongoose).
 
 
 <!--
