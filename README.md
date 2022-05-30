@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer with experience in a variety of technologies including - *Angular, NodeJs, MongoDB, ExpressJs, Socket.io, AWS(EC2,S3,SES), GCP(Firebase, Cloud Storage, Cloud Firestore, Cloud SQL, Cloud Run, Pub/Sub, Cloud Build, Google Kubernetes Engine), Docker, Python, Flask, MySQL, HTML, CSS, Java Script and so on*.
 
-- 🔭 I’m currently working as Freelancer/Software Engineer.
+- 🔭 I’m currently working as Freelancer/Software Development Engineer.
 - 🌱 I’m currently learning/developing applications with React, Redux(MERN stack).
 
 
