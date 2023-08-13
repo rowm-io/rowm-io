@@ -1,18 +1,18 @@
 Hi 👋 My name is Romio
 ======================
 
-Full Stack Developer
---------------------
+Software Development Engineer
+------------------------------
 
-Full stack developer, with extensive knowledge and years of experience, working in latest web technologies, Ui/Ux design, and system design, delivering quality work.
+Software Development Engineer, with extensive knowledge and years of experience, delivering quality work in the latest web technologies, Ui/Ux design, and system design.
 
 * 🌍  I'm based in Kolkata, India
-* 🖥️  See my portfolio at [romio.io](http://portfolio-23f67.web.app/)
+* 🖥️  See my portfolio at [rowmio.in](http://rowmio.in/)
 * ✉️  You can contact me at [official.romio23@gmail.com](mailto:official.romio23@gmail.com)
-* 🧠  I'm learning React & Redux
+* 🧠  I'm learning System Design & Microservice Architecture
 
-<a href="https://www.github.com/rbusybee" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rbusybee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/rowm-io" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rowm-io?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -38,16 +38,16 @@ src="https://img.shields.io/github/followers/rbusybee?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/rbusybee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rbusybei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rbusybee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/row_mio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/rowm-io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rbusybei" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rowm-io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/row_mio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rbusybee"><img src="https://github-readme-stats.vercel.app/api?username=rbusybee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rbusybee's GitHub stats" /></a>
+<a href="http://www.github.com/rowm-io"><img src="https://github-readme-stats.vercel.app/api?username=rowm-io&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rowm-io's GitHub stats" /></a>
 
-<a href="http://www.github.com/rbusybee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rbusybee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/rowm-io"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rowm-io&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/rbusybee"><img src="https://activity-graph.herokuapp.com/graph?username=rbusybee&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/rowm-io"><img src="https://activity-graph.herokuapp.com/graph?username=rowm-io&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/rbusybee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbusybee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/rowm-io" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowm-io&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
