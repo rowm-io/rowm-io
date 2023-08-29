@@ -7,7 +7,7 @@ Software Development Engineer
 Software Development Engineer, with extensive knowledge and years of experience, delivering quality work in the latest web technologies, Ui/Ux design, and system design.
 
 * 🌍  I'm based in Kolkata, India
-* 🖥️  See my portfolio at [rowmio.in](http://rowmio.in/){:target="_blank"}
+* 🖥️  See my portfolio at [rowmio.in](http://rowmio.in/)
 * ✉️  You can contact me at [official.romio23@gmail.com](mailto:official.romio23@gmail.com)
 * 🧠  I'm learning System Design & Microservice Architecture
 * 🤝  I'm open to collaborating on Nodejs Projects, Typescript projects and Image/Video/Audio Projects.
