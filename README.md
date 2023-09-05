@@ -15,7 +15,7 @@ Software Development Engineer, with extensive knowledge and years of experience,
 <a href="https://www.github.com/rowm-io" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rowm-io?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
  
-### Skills
+### Skills 
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
