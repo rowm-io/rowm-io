@@ -10,7 +10,7 @@ Software Development Engineer, with extensive knowledge and years of experience,
 * 🖥️  See my portfolio at [rowmio.in](http://rowmio.in/)
 * ✉️  You can contact me at [official.romio23@gmail.com](mailto:official.romio23@gmail.com)
 * 🧠  I'm learning System Design & Microservice Architecture  
-* 🤝  I'm open to collaborating on Nodejs Projects, Typescript projects and Image/Video/Audio Projects.
+* 🤝  I'm open to collaborating on Nodejs Projects, Typescript projects and Image/Video/Audio Projects. 
 
 <a href="https://www.github.com/rowm-io" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rowm-io?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
