@@ -4,7 +4,7 @@ Hi 👋 I'm Romio!
 Senior Software Engineer
 ------------------------------
 
-Software Development Engineer, with extensive knowledge and years of experience, delivering quality work in the latest web technologies, Ui/Ux design, and system design.
+Senior Software Engineer, with extensive knowledge and years of experience, delivering quality work in the latest web technologies, Ui/Ux design, and system design.
 
 * 🌍  I'm based in Kolkata, India
 * 🖥️  See my portfolio at [rowmio.in](http://rowmio.in/)
